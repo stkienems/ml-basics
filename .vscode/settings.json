@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\stkiene\\Anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\stkiene\\Miniconda3\\envs\\dp100\\env\\python.exe",
     "python.testing.pytestArgs": [
         "challenges"
     ],
